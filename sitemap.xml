@@ -31,7 +31,19 @@
 		<priority>0.5</priority>
 	</url>
 	<url>
+		<loc>https://onetwo.ren/wiki/#:伤员的体位转换</loc>
+		<lastmod>2022-11-18</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
 		<loc>https://onetwo.ren/wiki/#:儿童及婴儿CPR</loc>
+		<lastmod>2022-11-18</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
+		<loc>https://onetwo.ren/wiki/#:婴儿海姆利克法</loc>
 		<lastmod>2022-11-18</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
@@ -44,6 +56,30 @@
 	</url>
 	<url>
 		<loc>https://onetwo.ren/wiki/#:成人CPR</loc>
+		<lastmod>2022-11-18</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
+		<loc>https://onetwo.ren/wiki/#:成人海姆利克法</loc>
+		<lastmod>2022-11-18</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
+		<loc>https://onetwo.ren/wiki/#:拉结</loc>
+		<lastmod>2022-11-18</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
+		<loc>https://onetwo.ren/wiki/#:止血方法</loc>
+		<lastmod>2022-11-18</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
+		<loc>https://onetwo.ren/wiki/#:生活意外</loc>
 		<lastmod>2022-11-18</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>

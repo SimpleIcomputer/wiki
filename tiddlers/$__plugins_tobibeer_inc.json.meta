@@ -1,0 +1,13 @@
+author: Tobias Beer
+core-version: >=5.1.9
+dependents: 
+description: Enhance transclusion by including tiddlers with an on-hover toolbar
+documentation: https://tobibeer.github.io/tw5-inc
+list: readme
+modifier: kl
+plugin-type: plugin
+requires: 
+source: https://github.com/tobibeer/tw5-inc
+title: $:/plugins/tobibeer/inc
+type: application/json
+version: 0.5.2.1

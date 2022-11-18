@@ -1,0 +1,11 @@
+author: kl
+created: 20210424152938474
+dependents: 
+description: Show right sidebar on mouse hover
+list: readme
+modified: 20220605135117938
+name: Magic Sidebar
+plugin-type: plugin
+title: $:/plugins/xp/magicsidebar
+type: application/json
+version: 0.2.0

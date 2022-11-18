@@ -1,0 +1,11 @@
+author: kl
+created: 20210409082621805
+dependents: 
+description: Adjust the display order of the buttons
+list: readme
+modified: 20220810131842881
+name: Button Order
+plugin-type: plugin
+title: $:/xp/buttonorder
+type: application/json
+version: 0.2.1

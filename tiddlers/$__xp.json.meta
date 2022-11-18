@@ -1,0 +1,11 @@
+author: kl
+core-version: >=5.2.3
+created: 20210408050746660
+dependents: 
+description: TiddlyWiki XP main files
+modified: 20220810131842881
+name: XP
+plugin-type: plugin
+title: $:/xp
+type: application/json
+version: 0.2.3

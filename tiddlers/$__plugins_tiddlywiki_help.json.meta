@@ -1,0 +1,8 @@
+dependents: 
+description: Floating help panel
+list: readme
+name: Help
+plugin-type: plugin
+title: $:/plugins/tiddlywiki/help
+type: application/json
+version: 5.2.3

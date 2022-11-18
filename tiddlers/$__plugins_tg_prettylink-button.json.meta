@@ -1,0 +1,14 @@
+author: TonGerner
+core-version: >=5.1.13
+created: 20170410194742451
+creator: TonGerner
+description: Pretty link button
+list: readme license
+modified: 20210104201508788
+modifier: TonGerner
+name: Pretty link button
+plugin-type: plugin
+source: http://www.tongerner.nl/TW5/TW5_index.html
+title: $:/plugins/tg/prettylink-button
+type: application/json
+version: 0.0.13

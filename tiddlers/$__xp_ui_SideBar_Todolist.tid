@@ -1,0 +1,11 @@
+caption: Todo
+created: 20221119035735838
+creator: PPromising
+description: To do list
+modified: 20221119035735838
+modifier: PPromising
+tags: 
+title: $:/xp/ui/SideBar/Todolist
+type: text/vnd.tiddlywiki
+
+<<todolist-ui caption:"Todolist" base:"Sidebar" width:"90%">>

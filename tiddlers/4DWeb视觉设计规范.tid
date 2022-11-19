@@ -1,6 +1,6 @@
 created: 20221119013909000
 creator: PPromising
-modified: 20221119032445200
+modified: 20221119040031594
 modifier: PPromising
 tags: 视觉设计 规范 4DWeb
 title: 4DWeb视觉设计规范
@@ -95,5 +95,3 @@ type: text/vnd.tiddlywiki
     *# 配合少数小而精美的装饰
     *# 暗模式下时，纯黑白可能不会有很好的视觉效果，需要一些过度来显示层级关系
 		
-		[[儿童及婴儿CPR]] 
-		{{成人海姆利克法}}

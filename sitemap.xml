@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
-		<loc>https://onetwo.ren/wiki/#:Draft%2520of%2520&apos;新条目&apos;%2520by%2520PPromising</loc>
+		<loc>https://onetwo.ren/wiki/#:4DWeb视觉设计规范</loc>
 		<lastmod>2022-11-19</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
@@ -13,8 +13,14 @@
 		<priority>0.5</priority>
 	</url>
 	<url>
+		<loc>https://onetwo.ren/wiki/#:Figma快捷键</loc>
+		<lastmod>2022-11-19</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
 		<loc>https://onetwo.ren/wiki/#:TheBrain</loc>
-		<lastmod>2022-04-16</lastmod>
+		<lastmod>2022-11-19</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>

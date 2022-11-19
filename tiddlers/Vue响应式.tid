@@ -1,0 +1,41 @@
+created: 20221119140143145
+creator: PPromising
+modified: 20221119141917015
+modifier: PPromising
+tags: ?? Vue
+title: Vue响应式
+type: text/vnd.tiddlywiki
+
+!! 响应式值 
+# ref  
+#*用于绑定简单对象，无论引用或非引用  
+#*然而，对于复杂的数据类型（数组，对象以及他们的嵌套）会自动转为reactive  
+#**<img src="https://sicpicturebed.oss-cn-beijing.aliyuncs.com/img/picture-bed-master/picture-bed-master/picture20220625181652.jpg"> 
+#isRef:判断是否为ref对象  
+#ShallowRef:浅绑定,对于非引用对象来说与Ref无异  
+#triggerRef:强制更新DOM  
+#customRef :自定义ref  
+#reactive  
+#*转换复杂类型为响应式，即为深引用  
+#*push方法  
+#*<img src="https://sicpicturebed.oss-cn-beijing.aliyuncs.com/img/picture-bed-master/picture-bed-master/picture20220625181653.jpg">
+#readonly:拷贝一份reactive对象并将其设置为只读  
+#shallowReactive :可以改变值，但页面启动后的改变不会同步到DOM上  
+#to  
+#*toRef  
+#*toRefs  
+#*toRaw  
+
+
+!! 响应式函数 
+
+#computed  
+#watch  
+#*三个参数
+##需要监听的对象（或返回值为监听对象的函数）
+##传参为（newVal，oldVal）的函数；
+##watch函数的参数，函数中用到的变量自然会被监听  
+##通过实验，发现只有浅层次能被正常监听，深层次需要通过函数返回方式进行浅层次监听  
+#watchEffect  
+#*watchEffect接受一个函数传值，其中函数传值的变量自动被监听  
+#*想要停止这一函数自动过程，手动调用一次即可 

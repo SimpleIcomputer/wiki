@@ -1,0 +1,21 @@
+created: 20221119135248309
+creator: PPromising
+modified: 20221119140136649
+modifier: PPromising
+tags: ?? Vue
+title: Vue基础指令
+type: text/vnd.tiddlywiki
+
+* v-text 用来显示文本  
+* v-html 用来展示富文本  
+* v-if 用来控制元素的显示隐藏（切换真假DOM） 相较v-show 消耗性能较多  
+* v-else-if 表示 v-if 的“else if 块” 可以链式调用  
+* v-show 用来控制元素的显示隐藏（display none block Css切换）  
+* v-on 简写@ 用来给元素添加事件  
+** 具有多种属性  
+**如 @ click.stop 阻止点击事件向父级传递  
+*v-bind 简写: 用来绑定元素的属性如 class style以及自设属性  
+**<img src="https://sicpicturebed.oss-cn-beijing.aliyuncs.com/img/picture-bed-master/picture-bed-master/picture20220625181650.jpg">  
+*   v-model 双向绑定  
+*   v-for 用来遍历元素  
+** <img src="https://sicpicturebed.oss-cn-beijing.aliyuncs.com/img/picture-bed-master/picture-bed-master/picture20220625181651.jpg" />

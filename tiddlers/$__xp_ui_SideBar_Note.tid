@@ -1,0 +1,25 @@
+caption: Note
+created: 20221119040716988
+creator: PPromising
+description: Quick note
+modified: 20221119040716988
+modifier: PPromising
+tags: 
+title: $:/xp/ui/SideBar/Note
+type: text/vnd.tiddlywiki
+
+\define editTiddler() $:/QuickNote
+\define backupTiddler() $:/backup/QuickNote/Text
+
+<!-- Show line numbers, but No backup -->
+<$edit tiddler=<<editTiddler>> class="quicknote-edit" />
+
+
+<!-- Has backup, but No line numbers:
+<$macrocall
+	$name="keyboard-driven-input"
+	tiddler=<<editTiddler>> storeTitle=<<backupTiddler>>
+	tag="textarea" rows="25" class="quicknote-edit-texteditor"
+	focus="false"
+/>
+-->

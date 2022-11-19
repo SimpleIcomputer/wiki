@@ -1,0 +1,11 @@
+caption: <span class="active-recycle">{{$:/plugins/kookma/trashbin/images/recycle}}</span>
+created: 20221119040710651
+creator: PPromising
+description: Trashbin
+modified: 20221119040711258
+modifier: PPromising
+tags: $:/tags/SideBar
+title: $:/xp/ui/SideBar/Trashbin
+type: text/vnd.tiddlywiki
+
+{{$:/plugins/kookma/trashbin/ui/sidebar}}

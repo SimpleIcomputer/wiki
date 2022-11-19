@@ -3,8 +3,9 @@ core-version: >=5.0.0
 dependents: 
 description: Visjs – TiddlyWiki5 plugin for the vis.js library
 list: readme
+name: Visjs
 plugin-type: plugin
 source: https://github.com/felixhayashi/TW5-Vis.js
 title: $:/plugins/felixhayashi/vis
 type: application/json
-version: 4.17.0
+version: 5.2.2

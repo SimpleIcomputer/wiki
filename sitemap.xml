@@ -13,7 +13,7 @@
 		<priority>0.5</priority>
 	</url>
 	<url>
-		<loc>https://onetwo.ren/wiki/#:Figma快捷键</loc>
+		<loc>https://onetwo.ren/wiki/#:Figma常用快捷键</loc>
 		<lastmod>2022-11-19</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
@@ -39,6 +39,18 @@
 	<url>
 		<loc>https://onetwo.ren/wiki/#:TiddlyWikiIconWhite.png</loc>
 		<lastmod>2020-06-05</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
+		<loc>https://onetwo.ren/wiki/#:Vue响应式</loc>
+		<lastmod>2022-11-19</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
+		<loc>https://onetwo.ren/wiki/#:Vue基础指令</loc>
+		<lastmod>2022-11-19</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
@@ -105,6 +117,12 @@
 	<url>
 		<loc>https://onetwo.ren/wiki/#:绷带包扎</loc>
 		<lastmod>2022-11-19</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
+		<loc>https://onetwo.ren/wiki/#:金句</loc>
+		<lastmod>2022-11-20</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>

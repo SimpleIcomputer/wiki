@@ -1,7 +1,7 @@
 created: 20221119013909000
 creator: PPromising
-modified: 20221128072412569
-modifier: PPromising
+modified: 20221128073012332
+modifier: SIC
 tags: 视觉设计 规范 4DWeb ?
 title: 4DWeb视觉设计规范
 tmap.id: fe2abde6-f111-4858-a8fa-d7729691a948
@@ -14,6 +14,8 @@ wysiwyg: yes
 
 * 以移动端，既手机和平板为主，考虑到将来开发产品的特征完全不会很复杂，故一切从简
 * 四个区域
+
+# 
 ## 数据区：显示最主要的操作和数据页面
 ## 文章信息区：那笔记软件举例，显示双链，outline，脑图等
 ## 状态区：显示用户账户信息，对于数据区的一些选项
@@ -21,6 +23,8 @@ wysiwyg: yes
 # 分屏是很重要的选择！尤其对于横屏使用者
 # 在小屏幕时，无论横竖都是用平板竖屏布局
 # 三类布局
+
+* 
 ** 手机布局
 *** 数据区占满除状态栏外的区域
 *** 文章信息区与状态区隐藏，留有两边唤起标志
@@ -34,13 +38,14 @@ wysiwyg: yes
 *** 文章信息区与状态区留下更大的快捷按钮，留有两边唤起标志
 *** 操作区悬浮在底部
 * 如图所示 
-** <img src="https://sicpicturebed.oss-cn-beijing.aliyuncs.com/img/picture-bed-master/picture-bed-master/picture20221115222129.png" style="zoom:50%;"></img>
-
+** <img src="https://sicpicturebed.oss-cn-beijing.aliyuncs.com/img/picture-bed-master/picture-bed-master/picture20221115222129.png" style="zoom:50%;"></img></img>
 
 
 !! 常见的设备尺寸
 
 # PC
+
+* 
 ** 最常见：1600-900/16：9 以及 1440-900/16：10
 * 平板
 ** 最常见：ipad air 820-1180/3：4
@@ -55,6 +60,8 @@ wysiwyg: yes
 * 字体应该使用响应式+用户自行控制
 
 # 宽
+
+* 
 ** 20px 5% 块间距
 ** 15-10px 4%-2.5% 相排块间距
 ** 两边15px 10% 独占
@@ -73,6 +80,8 @@ wysiwyg: yes
 ! 色彩
 
 * design token 配色模板
+
+# 
 ## 品牌色
 ### primary 品牌主色，警醒色
 ### Primary-container 品牌亮色，容器颜色

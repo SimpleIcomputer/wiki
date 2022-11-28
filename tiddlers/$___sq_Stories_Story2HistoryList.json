@@ -637,12 +637,12 @@
         "title": "$:/plugins/sq/Stories/changelog"
     },
     {
-        "title": "$:/ControlPanel",
+        "title": "六四事件",
         "fromPageRect": {
             "top": 0,
-            "left": 0,
-            "width": 152.48318481445312,
-            "right": 152.48318481445312,
+            "left": 278.01678466796875,
+            "width": 84.51679992675781,
+            "right": 362.53358459472656,
             "bottom": 28.28571319580078,
             "height": 28.28571319580078
         }

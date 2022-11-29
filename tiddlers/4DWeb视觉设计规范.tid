@@ -1,6 +1,6 @@
 created: 20221119013909000
 creator: PPromising
-modified: 20221129140322778
+modified: 20221129141125415
 modifier: SIC
 tags: 视觉设计 规范 4DWeb ?
 title: 4DWeb视觉设计规范
@@ -13,12 +13,12 @@ type: text/vnd.tiddlywiki
 
 * 以移动端，既手机和平板为主，考虑到将来开发产品的特征完全不会很复杂，故一切从简
 * 四个区域
+
+# 
 ## 数据区：显示最主要的操作和数据页面
 ## 文章信息区：那笔记软件举例，显示双链，outline，脑图等
 ## 状态区：显示用户账户信息，对于数据区的一些选项
 ## 操作区：操作数据区的主要途径
-
-
 # 分屏是很重要的选择！尤其对于横屏使用者
 # 在小屏幕时，无论横竖都是用平板竖屏布局
 # 三类布局
@@ -37,15 +37,13 @@ type: text/vnd.tiddlywiki
 *** 文章信息区与状态区留下更大的快捷按钮，留有两边唤起标志
 *** 操作区悬浮在底部
 * 如图所示
-** <img src="https://sicpicturebed.oss-cn-beijing.aliyuncs.com/img/picture-bed-master/picture-bed-master/picture20221129215706.png" alt="123"></img>
+** [img zoom=50% [https://sicpicturebed.oss-cn-beijing.aliyuncs.com/img/picture-bed-master/picture-bed-master/picture20221129215706.png]]
 
 
 !! 常见的设备尺寸
 
-# PC
-# 1？
-
-* 最常见：1600-900/16：9 以及 1440-900/16：10
+* PC
+** 最常见：1600-900/16：9 以及 1440-900/16：10
 * 平板
 ** 最常见：ipad air 820-1180/3：4
 * 手机
@@ -58,9 +56,7 @@ type: text/vnd.tiddlywiki
 * 借用字号用rem控制区块可能不是个好想法
 * 字体应该使用响应式+用户自行控制
 
-# 宽
-
-* 
+*宽 
 ** 20px 5% 块间距
 ** 15-10px 4%-2.5% 相排块间距
 ** 两边15px 10% 独占
@@ -106,3 +102,5 @@ type: text/vnd.tiddlywiki
 ## 背景尽量使用黑白色，而分层使用边框和阴影即可，极少数填充品牌色和渐变色
 ## 配合少数小而精美的装饰
 ## 暗模式下时，纯黑白可能不会有很好的视觉效果，需要一些过度来显示层级关系
+
+

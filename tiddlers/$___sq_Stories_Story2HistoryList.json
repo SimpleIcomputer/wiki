@@ -637,9 +637,14 @@
         "title": "$:/plugins/sq/Stories/changelog"
     },
     {
-        "title": "新条目"
-    },
-    {
-        "title": "新条目"
+        "title": "$:/plugins/linonetwo/source-control-management",
+        "fromPageRect": {
+            "top": 0,
+            "left": 0,
+            "width": 299.2940979003906,
+            "right": 299.2940979003906,
+            "bottom": 28.28571319580078,
+            "height": 28.28571319580078
+        }
     }
 ]

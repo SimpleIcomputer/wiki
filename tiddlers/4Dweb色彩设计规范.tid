@@ -1,0 +1,38 @@
+created: 20221201142823520
+creator: SIC
+modified: 20221201143220072
+modifier: SIC
+tags: ? 4DWeb 规范 UI设计
+title: 4Dweb色彩设计规范
+type: text/vnd.tiddlywiki
+
+! 一，围绕品牌色的色彩选择
+# primary 品牌主色，警醒色
+## Primary-container 品牌亮色，容器颜色
+## primary-fade0 0.5%品牌主色+白色 可用于背景，大面积布景
+## primary-fade1 1%品牌主色+白色 可用于边框，装饰元素
+## primary-fade2 2%品牌主色+白色 可用于边框，装饰元素
+## primary-fade3 5%品牌主色+白色 可用于悬浮窗，图标，分割线
+# 补色
+## secondary，tertiary两边的邻近色
+## inverse 反色
+# 黑白色
+## background 
+## on-background
+# 通知色
+## info
+## warning
+## success
+## danger
+# 渐变色
+## 由品牌色将变为补色，或是补色间相互渐变
+# 大数据
+! 二，material3风格
+
+#
+! 三，极简风格
+
+# 背景尽量使用黑白色，而分层使用边框和阴影即可，极少数填充品牌色和渐变色
+# 配合少数小而精美的装饰
+# 暗模式下时，纯黑白可能不会有很好的视觉效果，需要一些过度来显示层级关系
+
